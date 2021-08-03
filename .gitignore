@@ -1,0 +1,22 @@
+# LaTeX files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.nav
+*.snm
+*.toc
+
+# IPython Checkpoints
+/notebooks/.ipynb_checkpoints
+/code/regressions/.ipynb_checkpoints
+
+# Rhistory files
+*.Rhistory
+
+# Word Docs
+*.docx
+*.tmp
+
+# Comment response
+documents/comments*
